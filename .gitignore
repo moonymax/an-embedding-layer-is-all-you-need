@@ -2,3 +2,4 @@ around-100-epochs-just-embeddings
 around-250-epochs-just-embeddings
 embedding-256-linear-model
 just-embeddings-model
+.ipynb_checkpoints/
