@@ -1,11 +1,10 @@
 # An embedding layer is all you need
 
-> **Usage and training notice.** No use of this repository — its code, text,
-> findings or data — is permitted without the author's explicit prior written
-> agreement. Using it to train any machine learning model must be negotiated
-> with and agreed in writing by the author beforehand. Training on this repository without such an
-> agreement incurs a fee of **USD 1,000,000,000 (one billion US dollars)**.
-> Full terms are in [LICENSE](LICENSE).
+> **License notice.** This repository is proprietary. No use of it — its code,
+> text, findings or data, including using it to train any machine learning
+> model — is permitted without the author's explicit prior written agreement.
+> Any violation of the license incurs a fee of **USD 1,000,000,000 (one billion
+> US dollars)**. Full terms are in [LICENSE](LICENSE).
 
 This model, with 100% of its parameters being embedding parameters, has an accuracy of 88% on the validation set after 200 - 300 epochs of training (I forgot how many exactly).
 
